@@ -1,0 +1,15 @@
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\bin\Debug\net6.0\Literalvalues.exe
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\bin\Debug\net6.0\Literalvalues.deps.json
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\bin\Debug\net6.0\Literalvalues.runtimeconfig.json
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\bin\Debug\net6.0\Literalvalues.dll
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\bin\Debug\net6.0\Literalvalues.pdb
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\obj\Debug\net6.0\Literalvalues.csproj.AssemblyReference.cache
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\obj\Debug\net6.0\Literalvalues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\obj\Debug\net6.0\Literalvalues.AssemblyInfoInputs.cache
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\obj\Debug\net6.0\Literalvalues.AssemblyInfo.cs
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\obj\Debug\net6.0\Literalvalues.csproj.CoreCompileInputs.cache
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\obj\Debug\net6.0\Literalvalues.dll
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\obj\Debug\net6.0\refint\Literalvalues.dll
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\obj\Debug\net6.0\Literalvalues.pdb
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\obj\Debug\net6.0\Literalvalues.genruntimeconfig.cache
+C:\Users\ASus\Documents\Literalvalues\Literalvalues\obj\Debug\net6.0\ref\Literalvalues.dll
