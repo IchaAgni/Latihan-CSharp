@@ -1,0 +1,15 @@
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\bin\Debug\net6.0\Mathoperator.exe
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\bin\Debug\net6.0\Mathoperator.deps.json
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\bin\Debug\net6.0\Mathoperator.runtimeconfig.json
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\bin\Debug\net6.0\Mathoperator.dll
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\bin\Debug\net6.0\Mathoperator.pdb
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\obj\Debug\net6.0\Mathoperator.csproj.AssemblyReference.cache
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\obj\Debug\net6.0\Mathoperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\obj\Debug\net6.0\Mathoperator.AssemblyInfoInputs.cache
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\obj\Debug\net6.0\Mathoperator.AssemblyInfo.cs
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\obj\Debug\net6.0\Mathoperator.csproj.CoreCompileInputs.cache
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\obj\Debug\net6.0\Mathoperator.dll
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\obj\Debug\net6.0\refint\Mathoperator.dll
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\obj\Debug\net6.0\Mathoperator.pdb
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\obj\Debug\net6.0\Mathoperator.genruntimeconfig.cache
+C:\Users\ASus\Documents\Mathoperator\Mathoperator\obj\Debug\net6.0\ref\Mathoperator.dll
