@@ -1,0 +1,15 @@
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\bin\Debug\net6.0\WorkingwithVariable.exe
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\bin\Debug\net6.0\WorkingwithVariable.deps.json
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\bin\Debug\net6.0\WorkingwithVariable.runtimeconfig.json
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\bin\Debug\net6.0\WorkingwithVariable.dll
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\bin\Debug\net6.0\WorkingwithVariable.pdb
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\obj\Debug\net6.0\WorkingwithVariable.csproj.AssemblyReference.cache
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\obj\Debug\net6.0\WorkingwithVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\obj\Debug\net6.0\WorkingwithVariable.AssemblyInfoInputs.cache
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\obj\Debug\net6.0\WorkingwithVariable.AssemblyInfo.cs
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\obj\Debug\net6.0\WorkingwithVariable.csproj.CoreCompileInputs.cache
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\obj\Debug\net6.0\WorkingwithVariable.dll
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\obj\Debug\net6.0\refint\WorkingwithVariable.dll
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\obj\Debug\net6.0\WorkingwithVariable.pdb
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\obj\Debug\net6.0\WorkingwithVariable.genruntimeconfig.cache
+C:\Users\ASus\Documents\WorkingwithVariable\WorkingwithVariable\obj\Debug\net6.0\ref\WorkingwithVariable.dll
