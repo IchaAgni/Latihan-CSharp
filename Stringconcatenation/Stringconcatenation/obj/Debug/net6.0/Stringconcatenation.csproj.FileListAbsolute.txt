@@ -1,0 +1,15 @@
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\bin\Debug\net6.0\Stringconcatenation.exe
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\bin\Debug\net6.0\Stringconcatenation.deps.json
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\bin\Debug\net6.0\Stringconcatenation.runtimeconfig.json
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\bin\Debug\net6.0\Stringconcatenation.dll
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\bin\Debug\net6.0\Stringconcatenation.pdb
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\obj\Debug\net6.0\Stringconcatenation.csproj.AssemblyReference.cache
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\obj\Debug\net6.0\Stringconcatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\obj\Debug\net6.0\Stringconcatenation.AssemblyInfoInputs.cache
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\obj\Debug\net6.0\Stringconcatenation.AssemblyInfo.cs
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\obj\Debug\net6.0\Stringconcatenation.csproj.CoreCompileInputs.cache
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\obj\Debug\net6.0\Stringconcatenation.dll
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\obj\Debug\net6.0\refint\Stringconcatenation.dll
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\obj\Debug\net6.0\Stringconcatenation.pdb
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\obj\Debug\net6.0\Stringconcatenation.genruntimeconfig.cache
+C:\Users\ASus\Documents\Stringconcatenation\Stringconcatenation\obj\Debug\net6.0\ref\Stringconcatenation.dll
