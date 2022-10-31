@@ -1,0 +1,15 @@
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\bin\Debug\net6.0\AddDecionlogic.exe
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\bin\Debug\net6.0\AddDecionlogic.deps.json
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\bin\Debug\net6.0\AddDecionlogic.runtimeconfig.json
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\bin\Debug\net6.0\AddDecionlogic.dll
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\bin\Debug\net6.0\AddDecionlogic.pdb
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\obj\Debug\net6.0\AddDecionlogic.csproj.AssemblyReference.cache
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\obj\Debug\net6.0\AddDecionlogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\obj\Debug\net6.0\AddDecionlogic.AssemblyInfoInputs.cache
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\obj\Debug\net6.0\AddDecionlogic.AssemblyInfo.cs
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\obj\Debug\net6.0\AddDecionlogic.csproj.CoreCompileInputs.cache
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\obj\Debug\net6.0\AddDecionlogic.dll
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\obj\Debug\net6.0\refint\AddDecionlogic.dll
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\obj\Debug\net6.0\AddDecionlogic.pdb
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\obj\Debug\net6.0\AddDecionlogic.genruntimeconfig.cache
+C:\Users\ASus\Documents\AddDecionlogic\AddDecionlogic\obj\Debug\net6.0\ref\AddDecionlogic.dll
