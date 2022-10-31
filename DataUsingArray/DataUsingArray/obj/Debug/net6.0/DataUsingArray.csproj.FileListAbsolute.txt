@@ -1,0 +1,15 @@
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\bin\Debug\net6.0\DataUsingArray.exe
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\bin\Debug\net6.0\DataUsingArray.deps.json
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\bin\Debug\net6.0\DataUsingArray.runtimeconfig.json
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\bin\Debug\net6.0\DataUsingArray.dll
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\bin\Debug\net6.0\DataUsingArray.pdb
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\obj\Debug\net6.0\DataUsingArray.csproj.AssemblyReference.cache
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\obj\Debug\net6.0\DataUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\obj\Debug\net6.0\DataUsingArray.AssemblyInfoInputs.cache
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\obj\Debug\net6.0\DataUsingArray.AssemblyInfo.cs
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\obj\Debug\net6.0\DataUsingArray.csproj.CoreCompileInputs.cache
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\obj\Debug\net6.0\DataUsingArray.dll
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\obj\Debug\net6.0\refint\DataUsingArray.dll
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\obj\Debug\net6.0\DataUsingArray.pdb
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\obj\Debug\net6.0\DataUsingArray.genruntimeconfig.cache
+C:\Users\ASus\Documents\DataUsingArray\DataUsingArray\obj\Debug\net6.0\ref\DataUsingArray.dll
